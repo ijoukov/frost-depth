@@ -1,0 +1,7 @@
+pandas>=2.2
+requests>=2.31
+dash>=2.18
+dash-ag-grid>=31.2
+plotly>=5.24
+pgeocode>=0.5
+meteostat>=1.7

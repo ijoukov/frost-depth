@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+output/
+
+webapp.log
+webapp.pid
+
+.DS_Store
+.vscode
